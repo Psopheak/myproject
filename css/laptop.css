@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+}
+h2{
+    text-align: center;
+}
+.card1{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+}
+.card2{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 220px;
+}
+.card3{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 440px;
+}
+.card4{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 660px;
+}
+.card5{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 880px;
+}
+.card6{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 1100px;
+}
+.card7{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 1320px;
+}
+.card8{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    top: 330px;
+}
+.card9{
+   
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 220px;
+    top: 330px;
+}
+.card10{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 440px;
+    top: 330px;
+}
+.card11{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 660px;
+    top: 330px;
+}
+.card12{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 880px;
+    top: 330px;
+}
+.card13{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 1100px;
+    top: 330px;
+}
+.card14{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: beige;
+    border-radius: 5px ;
+    margin: 7px;
+    box-shadow: 0 0 5px pink;
+    left: 1320px;
+    top: 330px;
+}
+
+

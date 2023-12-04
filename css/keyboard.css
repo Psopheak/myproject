@@ -1,0 +1,161 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+}
+h2{
+    text-align: center;
+}
+
+.Keyboard1{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+}
+.Keyboard2{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 220px;
+}
+.Keyboard3{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 440px;
+}
+.Keyboard4{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 660px;
+}
+.Keyboard5{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 880px;
+}
+.Keyboard6{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 1100px;
+}
+.Keyboard7{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    left: 1320px;
+}
+.Keyboard8{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+}
+.Keyboard9{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 220px;
+}
+.Keyboard10{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 440px;
+}
+.Keyboard11{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 660px;
+}
+.Keyboard12{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 880px;
+}
+.Keyboard13{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 1100px;
+}
+.Keyboard14{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    margin: 7px;
+    top: 330px;
+    left: 1320px;
+}
+@media only screen and(max-width: 620px) {
+    
+}

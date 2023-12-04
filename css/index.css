@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+h1{
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    text-indent: 30px;
+    word-spacing: 5px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    text-align: start;
+
+}
+
+ul {
+    /* list-style-type: disc; */
+    list-style: disc;
+}
+
+h4{
+    text-align: justify;
+    text-decoration: underline; 
+    letter-spacing: 3px;
+    word-spacing: 3px;
+} 
+
+@media only screen and(min-width : 992px ){
+    h1 h2 h3 p ul {
+        width: 100%;
+    }
+}
+@media only screen and(min-width : 768px ){
+    h1 h2 h3 p ul {
+        width: 75%;
+    }
+}
+@media only screen and(min-width : 600px ){
+    h1 h2 h3 p ul {
+        width: 50%;
+    }
+}
+@media only screen and(max-width : 468px ){
+    h1 h2 h3 p ul {
+        width: 30%;
+    }
+}
